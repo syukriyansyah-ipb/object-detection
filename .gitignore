@@ -1,0 +1,4 @@
+/backend/env
+/yolo-frontend/node_modules
+/yolo-frontend/.next
+.vscode
